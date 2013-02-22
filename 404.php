@@ -2,7 +2,11 @@
   <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr"> 
       <head> 
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
-      <link rel="stylesheet" href="http://lescercles.net/css/style.css" type="text/css" /> 
+      <link href="css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+      <link href="css/print.css" media="print" rel="stylesheet" type="text/css" />
+      <!--[if IE]>
+      <link href="/cercles/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+      <![endif]--> 
       <title>Erreur 404 | Les Cercles</title>
       <style>
 		p {
